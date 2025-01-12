@@ -26,10 +26,10 @@ public class Plugin : BasePlugin<PluginConfiguration>, IHasWebPages
     }
 
     /// <inheritdoc />
-    public override string Name => "Anifin";
+    public override string Name => "Template";
 
     /// <inheritdoc />
-    public override Guid Id => Guid.Parse("2107d0d7-2ec4-403d-9115-22646f74882f");
+    public override Guid Id => Guid.Parse("f04773c9-5945-4c25-a0f1-d5eb0f913cdb");
 
     /// <summary>
     /// Gets the current plugin instance.
