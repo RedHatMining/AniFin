@@ -1,4 +1,4 @@
-﻿namespace AniFin;
+namespace AniFin;
 
 public class Class1
 {
